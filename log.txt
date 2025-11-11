@@ -1,3 +1,4 @@
+b0419ad Task 2.1: Extract getAmount; add getPlay; remove play param; inline temp
 10b190c Task 1.2: Add git log snapshot
 2fcfaff Task 1.1: Encapsulate fields, fix modifier order, add Javadoc, braces, finals, constants
 c191bdb Initial commit
