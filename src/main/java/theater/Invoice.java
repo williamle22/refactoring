@@ -3,23 +3,23 @@ package theater;
 import java.util.List;
 
 /**
- * Class representing an invoice for a customer.
+ * Represents a customer invoice containing a list of performances.
  */
 public class Invoice {
 
     private final String customer;
     private final List<Performance> performances;
 
-    public Invoice(String customer, List<Performance> performances) {
+    public Invoice(final String customer, final List<Performance> performances) {
         this.customer = customer;
         this.performances = performances;
     }
 
-    public final String getCustomer() {
+    public String getCustomer() {
         return customer;
     }
 
-    public final List<Performance> getPerformances() {
+    public List<Performance> getPerformances() {
         return performances;
     }
 }
