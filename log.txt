@@ -1,3 +1,4 @@
+99813f5 Task 2.3: Inline formatter; add usd(int); use usd(getAmount(p)) and usd(totalAmount)
 85e55d0 Task 2.2: Extract getVolumeCredits; return per-performance contribution
 b0419ad Task 2.1: Extract getAmount; add getPlay; remove play param; inline temp
 10b190c Task 1.2: Add git log snapshot
