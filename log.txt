@@ -1,2 +1,3 @@
+10b190c Task 1.2: Add git log snapshot
 2fcfaff Task 1.1: Encapsulate fields, fix modifier order, add Javadoc, braces, finals, constants
 c191bdb Initial commit
